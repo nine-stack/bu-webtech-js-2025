@@ -1,0 +1,2 @@
+- nickname : Nine
+- favorate food : 
